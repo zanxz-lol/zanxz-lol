@@ -17,5 +17,7 @@
   <br/>
   <br/>
   <b>Icons by <a href="https://skillicons.dev">SkillIcons</a></b>
+  <br/>
+  <span style="font-size:10px;!important">Yes, I copied this. Fight me.</span>
 </div>
 <br>
