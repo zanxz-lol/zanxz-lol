@@ -4,16 +4,16 @@
   <b>zanxz-lol</b>
   <br>
   <br>
-  <span style="font-size:10px;!important">"It's hard to be an angel when you're surrounded by demons."</span>
+  <span style="font-size:10px;!important">"People come and people go, no faith in them, I'll do it alone."</span>
   <br>
-  <span style="font-size:10px;!important">― Ye (Kanye West)</span>
+  <span style="font-size:10px;!important">(Degenerates Prayer - JPEGMAFIA)</span>
 </p>
 
 <div align="center">
   <h3>Languages I Work With:</h3>
   <img src="https://skillicons.dev/icons?i=cpp,c">
   <h3>Software I Use:</h3>
-  <img src="https://skillicons.dev/icons?i=vscode,linux,neovim,git">
+  <img src="https://skillicons.dev/icons?i=vscode,linux,neovim,git,windows">
   <br/>
   <br/>
   <b>Icons by <a href="https://skillicons.dev">SkillIcons</a></b>
